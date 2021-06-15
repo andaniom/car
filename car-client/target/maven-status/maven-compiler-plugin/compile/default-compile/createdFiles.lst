@@ -1,0 +1,7 @@
+se\callista\blog\synch_kafka\car\client\controller\ErrorMessage.class
+se\callista\blog\synch_kafka\car\client\conf\KafkaConfig.class
+se\callista\blog\synch_kafka\car\client\car\CarFacade.class
+se\callista\blog\synch_kafka\car\client\controller\ApiException.class
+se\callista\blog\synch_kafka\car\client\car\CarFacadeImpl.class
+se\callista\blog\synch_kafka\car\client\controller\CarController.class
+se\callista\blog\synch_kafka\car\client\CarClientApplication.class
